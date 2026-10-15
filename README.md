@@ -1,3 +1,4 @@
 ### Hi there 👋
 
 I’m a Cornell Computer Science graduate and full-stack software engineer. I’ve built applications using frameworks like .NET, Vue, React, Flask, and FastAPI, among many others. My professional experience includes working on large-scale APIs, data pipelines, client-facing frontends, GenAI integrations, and much more. In my daily development, I actively leverage modern technologies and agentic workflows to build reliable, well-architected software. I value clean code, strong team collaboration, and tackling complex engineering problems. Feel free to explore my projects or reach out if you’d like to connect.
+
